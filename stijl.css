@@ -4,7 +4,7 @@ body {
     background-color: #008E5a;
     font-family: "Comic Sans MS", cursive;
     font-size: 13px;
-    box: 50px solid white;
+    box-sizing: border-box;
 }
 
 #pagina {
